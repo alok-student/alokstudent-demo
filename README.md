@@ -2,7 +2,6 @@
 
 
 # alokstudent-demo
-<br>
 This is my read me .
 this is all about me-
 <br>
